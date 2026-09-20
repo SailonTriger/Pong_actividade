@@ -10,6 +10,8 @@
     {"name":"inst_FAA8130_1","path":"rooms/rm_initial/rm_initial.yy",},
     {"name":"inst_1888AD8B1","path":"rooms/rm_initial/rm_initial.yy",},
     {"name":"inst_2152BF39_1","path":"rooms/rm_initial/rm_initial.yy",},
+    {"name":"inst_4E50ACE7","path":"rooms/rm_initial/rm_initial.yy",},
+    {"name":"inst_1135B7BB","path":"rooms/rm_initial/rm_initial.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -19,6 +21,8 @@
         {"$GMRInstance":"v4","%Name":"inst_FAA8130_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_FAA8130_1","objectId":{"name":"obj_collide","path":"objects/obj_collide/obj_collide.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":10.015625,"scaleY":1.0,"x":320.0,"y":352.0,},
         {"$GMRInstance":"v4","%Name":"inst_1888AD8B1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1888AD8B1","objectId":{"name":"obj_paddle_ia","path":"objects/obj_paddle_ia/obj_paddle_ia.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":576.0,"y":160.0,},
         {"$GMRInstance":"v4","%Name":"inst_2152BF39_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2152BF39_1","objectId":{"name":"obj_collide","path":"objects/obj_collide/obj_collide.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":10.0,"scaleY":1.0,"x":320.0,"y":-32.0,},
+        {"$GMRInstance":"v4","%Name":"inst_4E50ACE7","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4E50ACE7","objectId":{"name":"obj_play","path":"objects/obj_play/obj_play.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.5123458,"scaleY":0.64634144,"x":320.0,"y":209.0,},
+        {"$GMRInstance":"v4","%Name":"inst_1135B7BB","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1135B7BB","objectId":{"name":"obj_mode_game","path":"objects/obj_mode_game/obj_mode_game.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.4722222,"scaleY":0.73170733,"x":320.0,"y":273.5,},
       ],"layers":[],"name":"paddles","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"face","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_A2958E1_1","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_A2958E1_1","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_face","path":"sprites/spr_face/spr_face.yy",},"x":318.0,"y":100.0,},
